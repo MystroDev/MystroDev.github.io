@@ -1,6 +1,3 @@
-body {
-		font-family: "Poppins", sans-serif;
-}
 
 @media (min-width: 1200px) {
 		.container {
@@ -22,10 +19,7 @@ body {
 		}
 }
 
-.custom-font-secondary {
-		font-family: 'Roboto Slab', serif !important;
-}
-
+.
 .custom-font-size-1 {
 		font-size: 1.4em !important;
 }
@@ -42,9 +36,6 @@ body {
 		font-size: 50% !important;
 }
 
-.custom-text-color-1 {
-		color: #93bae4 !important;
-}
 
 .box-shadow-1 .card-body {
 		z-index: 1;
